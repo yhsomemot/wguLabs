@@ -9,4 +9,4 @@ Create a Movie table with the following columns:
 - **Budget** - decimal value representing a cost of up to 999,999 dollars, with 2 digits for cents
 Note: Your SQL code does not display any results in Develop mode. Use Submit mode to test your code.
 
-[answer] (answers/2.13.txt)
+[answer](https://github.com/yhsomemot/wguLabs/blob/main/answers/2.13.txt)
